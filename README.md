@@ -1,6 +1,25 @@
 # simple_stopwatch
 
-A new Flutter project.
+A simple stopwatch application built with Flutter.
+
+## Features
+
+- Start, Stop, and Reset functionality.
+- Displays time in minutes, seconds, and milliseconds.
+
+## Screenshot
+
+Here's a screenshot of the application:
+
+| Screenshot |
+| :---: |
+| <img src="screenshots/screenshot.png" alt="App Login Page" width="250"/> |
+
+## How to Use
+
+1. Tap the 'Start' button to begin the stopwatch.
+2. Tap the 'Stop' button to pause the stopwatch.
+3. Tap the 'Reset' button to clear the stopwatch and set it back to zero.
 
 ## Getting Started
 
